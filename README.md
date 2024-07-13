@@ -7,3 +7,6 @@ Fake news detection using machine learning
 3. [PassiveAggressive Classifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveClassifier.html)
 4. [#50: Scikit-learn 47:Supervised Learning 25: Passive Aggressive Algorithm](https://www.youtube.com/watch?v=1gAY3uNiiTg)
 5. [Online Passive-Aggressive Algorithms](https://www.youtube.com/watch?v=kr-A6fhyH28)
+
+# Dataset
+Make a folder 'data' and save this [Welfake csv](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification) dataset there.
